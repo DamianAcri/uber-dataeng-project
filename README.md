@@ -21,4 +21,5 @@ Mage AI Pipelines: Design and implementation pipelines using Mage AI. These pipe
 Building the BigQuery Table: I crafted a new table within BigQuery to house the essential data extracted from the Uber trip records. This table served as the foundation for in-depth analysis.
 Interactive Data Visualizations with Looker Studio: I utilized Looker Studio to construct interactive data visualizations that brought the data to life. These visualizations allowed me to explore trends and patterns.
 
-## 5. Acknowledgments: Darshil Parmar, for all the info provided.
+## 5. Acknowledgments: 
+Darshil Parmar, for all the info provided.
