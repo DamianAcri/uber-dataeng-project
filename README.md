@@ -3,6 +3,8 @@ Uber Data Engineering Project
 
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
+Interactive dashboard: [https://lookerstudio.google.com/reporting/14257748-940b-4c4f-ab24-f79dc1ef4f47]
+
 ## 1. Data Acquisition and Cleaning:
 Data Acquisition: I acquired the uber_data.csv file containing a wealth of information about Uber trips.
 Data Cleaning: Recognizing the importance of data quality, I implemented rigorous cleaning techniques to meticulously rectify any errors or inconsistencies present within the dataset. This included addressing missing values, formatting inconsistencies, and correcting outliers.
